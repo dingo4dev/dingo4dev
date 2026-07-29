@@ -1,5 +1,5 @@
 # Hi there, I'm Stanley 👋 
-## Data Engineer | Open Source Contributor 
+## Engineering Manager, Data & AI | Open Source Contributor 
   
   ![](https://github.com/DinGo4Dev/stats/blob/master/generated/overview.svg)
   ![](https://github.com/DinGo4Dev/stats/blob/master/generated/languages.svg)
