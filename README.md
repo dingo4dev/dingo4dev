@@ -28,7 +28,7 @@
 ## ➡️ About Me
 
 ![](https://komarev.com/ghpvc/?username=dingo4dev&color=blue&style=flat)
-- 👋 Hi, I'm Stanley! I'm a Data Engineer focused on data orchestration and ETL pipeline.
+- 👋 Hi, I'm Stanley! I'm a Engineering Manager / Professional Data Engineer focused on data orchestration and ETL pipeline.
 - 🎓 Data & Computer Engineering @ City University of Hong Kong
 - 🎯 I love contributing to OSS projects!
 
