@@ -82,6 +82,10 @@
   </tr>
 </table>
 
+## 📋What I'm Working On
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ![GitHub PR Stats](https://pr-stats.devhk.dev/api/github-pr-stats?username=dingo4dev&theme=dark&status=merged%2Copen&min_stars=10&limit=20&sort=status%2Cstars_desc%2Ccreated_date_desc&stats=all&fields=repo%2Cstars%2Cpr_title%2Cpr_number%2Cstatus%2Ccreated_date%2Cmerged_date&mode=pr-list)
 
 ## 🤝 Connect with me!!
