@@ -84,6 +84,16 @@
 
 ## 📋What I'm Working On
 <!--START_SECTION:activity-->
+1. 🚀 Committed to main in [dingo4dev/dingo4dev](https://github.com/dingo4dev/dingo4dev/commit/a0da77f8b62547323879f9759a4715efac16e668)
+2. 🚀 Committed to main in [dingo4dev/dingo4dev](https://github.com/dingo4dev/dingo4dev/commit/7b08ae8e44a4fb39a187b62b377f309053694d82)
+3. 🚀 Committed to main in [dingo4dev/dingo4dev](https://github.com/dingo4dev/dingo4dev/commit/6a715b7bb441bc8a33f647f5e61bf826c2eabfb4)
+4. 🚀 Committed to main in [dingo4dev/dingo4dev](https://github.com/dingo4dev/dingo4dev/commit/d237bcbb4dd852a4c4efbe990267d26d9b2a6b86)
+5. 🚀 Committed to main in [dingo4dev/dingo4dev](https://github.com/dingo4dev/dingo4dev/commit/ea13a8c7eb3d6f55530244264f3f4d94ff9b4e3c)
+6. 🚀 Committed to main in [dingo4dev/dingo4dev](https://github.com/dingo4dev/dingo4dev/commit/5efa577ab99d2fe9caf1c611db61acc082b3ffb2)
+7. ⭐ Starred [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended)
+8. ⭐ Starred [f14XuanLv/github-pr-stats](https://github.com/f14XuanLv/github-pr-stats)
+9. 🚀 Committed to main in [dingo4dev/dingo4dev](https://github.com/dingo4dev/dingo4dev/commit/4a97d097f9b4a705e94950539a4cd553051828ea)
+10. 🚀 Committed to copilot/add-postgres-18-4-support in [dingo4dev/cloudnative-pg-extension](https://github.com/dingo4dev/cloudnative-pg-extension/commit/b75f528a35fe97adb5e85c4526668e844508c573)
 <!--END_SECTION:activity-->
 
 ![GitHub PR Stats](https://pr-stats.devhk.dev/api/github-pr-stats?username=dingo4dev&theme=dark&status=merged%2Copen&min_stars=10&limit=20&sort=status%2Cstars_desc%2Ccreated_date_desc&stats=all&fields=repo%2Cstars%2Cpr_title%2Cpr_number%2Cstatus%2Ccreated_date%2Cmerged_date&mode=pr-list)
