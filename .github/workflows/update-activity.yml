@@ -15,8 +15,8 @@ jobs:
       - name: Update GitHub Activity
         uses: TheDanniCraft/activity-log@v1
         with:
-          GITHUB_USERNAME: ${{vars.USER_NAME}}
-          GITHUB_TOKEN: ${{ secrets.TOKEN }} # Ensure this matches the secret name in repository settings
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Ensure this matches the secret name in repository settings
           IGNORE_EVENTS: '["PullRequestEvent.closed","PullRequestEvent.reopened","PullRequestEvent.assigned"]'
           HIDE_DETAILS_ON_PRIVATE_REPOS: true
           EVENT_EMOJI_MAP: |
