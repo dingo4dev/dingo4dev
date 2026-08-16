@@ -84,16 +84,16 @@
 
 ## 📋What I'm Working On
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR in a private repository
-2. 📥 Opened PR in a private repository
-3. 🚀 Published release in a private repository
-4. 🗣 Commented on a review of PR #3 in [dingo4dev/cloudnative-pg-extension](https://github.com/dingo4dev/cloudnative-pg-extension/pull/3#pullrequestreviewcomment-3734780514)
-5. ❌ Closed PR in a private repository
+1. 🚀 Published release in a private repository
+2. 🔀 Merged PR in a private repository
+3. 📥 Opened PR in a private repository
+4. 🚀 Published release in a private repository
+5. 🗣 Commented on a review of PR #3 in [dingo4dev/cloudnative-pg-extension](https://github.com/dingo4dev/cloudnative-pg-extension/pull/3#pullrequestreviewcomment-3734780514)
 6. ❌ Closed PR in a private repository
 7. ❌ Closed PR in a private repository
-8. 🔀 Merged PR in a private repository
-9. 📥 Opened PR in a private repository
-10. ❌ Closed PR in a private repository
+8. ❌ Closed PR in a private repository
+9. 🔀 Merged PR in a private repository
+10. 📥 Opened PR in a private repository
 <!--END_SECTION:activity-->
 
 ![GitHub PR Stats](https://pr-stats.devhk.dev/api/github-pr-stats?username=dingo4dev&theme=dark&status=merged%2Copen&min_stars=10&limit=20&sort=status%2Cstars_desc%2Ccreated_date_desc&stats=all&fields=repo%2Cstars%2Cpr_title%2Cpr_number%2Cstatus%2Ccreated_date%2Cmerged_date&mode=pr-list)
