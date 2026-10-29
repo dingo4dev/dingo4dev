@@ -84,15 +84,15 @@
 
 ## 📋What I'm Working On
 <!--START_SECTION:activity-->
-1. ❌ Closed PR in a private repository
-2. 🔎 Created PR in a private repository
-3. 🔎 Created PR in a private repository
-4. 🗣 Commented on PR in a private repository
-5. 🔎 Created PR in a private repository
-6. 🔎 Created PR in a private repository
+1. 🗣 Commented on PR in a private repository
+2. 🗣 Commented on PR in a private repository
+3. 🔀 Merged PR in a private repository
+4. 📥 Opened PR in a private repository
+5. 🗣 Commented on PR in a private repository
+6. ❌ Closed PR in a private repository
 7. 🔎 Created PR in a private repository
 8. 🔎 Created PR in a private repository
-9. 🔎 Created PR in a private repository
+9. 🗣 Commented on PR in a private repository
 10. 🔎 Created PR in a private repository
 <!--END_SECTION:activity-->
 
