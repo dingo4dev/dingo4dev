@@ -84,12 +84,16 @@
 
 ## 📋What I'm Working On
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR in a private repository
-2. 📥 Opened PR in a private repository
-3. 🔀 Merged PR in a private repository
-4. 📥 Opened PR in a private repository
-5. 🔀 Merged PR in a private repository
-6. 📥 Opened PR in a private repository
+1. ❌ Closed PR in a private repository
+2. 🔎 Created PR in a private repository
+3. 🔎 Created PR in a private repository
+4. 🗣 Commented on PR in a private repository
+5. 🔎 Created PR in a private repository
+6. 🔎 Created PR in a private repository
+7. 🔎 Created PR in a private repository
+8. 🔎 Created PR in a private repository
+9. 🔎 Created PR in a private repository
+10. 🔎 Created PR in a private repository
 <!--END_SECTION:activity-->
 
 ![GitHub PR Stats](https://pr-stats.devhk.dev/api/github-pr-stats?username=dingo4dev&theme=dark&status=merged%2Copen&min_stars=10&limit=20&sort=status%2Cstars_desc%2Ccreated_date_desc&stats=all&fields=repo%2Cstars%2Cpr_title%2Cpr_number%2Cstatus%2Ccreated_date%2Cmerged_date&mode=pr-list)
